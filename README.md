@@ -57,7 +57,7 @@ array2=(
  
 ```
 
-#####This script takes each first value of array, array1 & array2 and combines them into each instance per line that is generated, so
+##### This script takes each first value of array, array1 & array2 and combines them into each instance per line that is generated, so
 First line of array will be called and create it like so
 **`domain.com DomainUsername AccountPassword`**
 
