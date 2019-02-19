@@ -54,4 +54,14 @@ array2=(
 "AccountPassword"
 "AccountPassword"
  );
+ 
 ```
+
+#####This script takes each first value of array, array1 & array2 and combines them into each instance per line that is generated, so
+First line of array will be called and create it like so
+**`domain.com DomainUsername AccountPassword`**
+
+Then it would take the second line in the array and do the same thing with those details 
+**`domain2.com DomainUsername2 AccountPassword2`**
+
+And so fourth will cycle all values within all the information that is provided inside the arrays
